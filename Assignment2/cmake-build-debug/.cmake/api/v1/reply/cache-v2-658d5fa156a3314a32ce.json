@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/zhoujunl/CLionProjects/Assignment1 - 2/cmake-build-debug"
+			"value" : "/Users/zhoujunl/CLionProjects/cg/Assignment2/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +515,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/zhoujunl/CLionProjects/Assignment1 - 2"
+			"value" : "/Users/zhoujunl/CLionProjects/cg/Assignment2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1087,7 +1087,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/zhoujunl/CLionProjects/Assignment1 - 2/cmake-build-debug"
+			"value" : "/Users/zhoujunl/CLionProjects/cg/Assignment2/cmake-build-debug"
 		},
 		{
 			"name" : "open_gl_install_IS_TOP_LEVEL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/zhoujunl/CLionProjects/Assignment1 - 2"
+			"value" : "/Users/zhoujunl/CLionProjects/cg/Assignment2"
 		}
 	],
 	"kind" : "cache",

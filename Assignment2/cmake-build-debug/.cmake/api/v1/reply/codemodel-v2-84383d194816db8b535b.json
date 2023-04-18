@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/zhoujunl/CLionProjects/Assignment1 - 2/cmake-build-debug",
-		"source" : "/Users/zhoujunl/CLionProjects/Assignment1 - 2"
+		"build" : "/Users/zhoujunl/CLionProjects/cg/Assignment2/cmake-build-debug",
+		"source" : "/Users/zhoujunl/CLionProjects/cg/Assignment2"
 	},
 	"version" : 
 	{
